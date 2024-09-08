@@ -25,7 +25,7 @@ export default function Home() {
 
       <Pagnigation/>
 
-            <Footer year="2024" fullName="Sorawit yokthlemthae" studentId="660610800"/>
+            <Footer year="2024" fullName="Boontharika Korkitrotjana" studentId="660610769"/>
     </Container>
   );
 }
